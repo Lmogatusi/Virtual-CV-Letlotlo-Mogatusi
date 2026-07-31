@@ -4,7 +4,7 @@ A single-page virtual CV built with plain HTML and CSS, styled as a football-ins
 
 ## Live Demo
 
-View it on GitHub Pages: https://lmogatusi.github.io/Virtual-CV-/
+View it on GitHub Pages: https://lmogatusi.github.io/Virtual-CV-Letlotlo-Mogatusi/)
 
 ## Structure
 
