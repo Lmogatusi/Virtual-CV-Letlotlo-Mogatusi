@@ -268,6 +268,15 @@
   .highlight-card li{padding-left:18px; position:relative; margin-bottom:8px;}
   .highlight-card li::before{content:"▸"; position:absolute; left:0; color:var(--grass-bright);}
 
+.highlight-link{
+  display:inline-flex; align-items:center; gap:6px; margin-top:18px;
+  font-family:'JetBrains Mono'; font-size:0.72rem; text-transform:uppercase;
+  letter-spacing:0.06em; color:var(--grass-bright); text-decoration:none;
+  border-bottom:1px solid transparent; transition:border-color 0.2s ease;
+}
+.highlight-link:hover{border-color:var(--grass-bright);}
+.highlight-link::after{content:"→";}
+
   /* ---------- CAREER PATH (education) ---------- */
   .timeline{position:relative; padding-left:32px; border-left:2px solid var(--line);}
   .t-item{position:relative; padding-bottom:36px;}
